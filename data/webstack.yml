@@ -1,0 +1,78 @@
+---
+- taxonomy: 内容制作
+  icon: fas fa-pencil-alt
+  links: 
+    - title: Gamma
+      logo: https://gamma.app/favicon.ico
+      description: 把文字变成漂亮的幻灯片和文档
+      url: https://gamma.app
+
+    - title: HeyGen
+      logo: https://assets-global.website-files.com/63f580596efa74629ceecdf5/642469861a457eb86c2c3a42_heygen-favicon-32.png
+      description: 快速制作多语言 AI 视频
+      url: https://www.heygen.com
+
+- taxonomy: 个人成长
+  icon: fas fa-user
+  links:
+    - title: Rosebud
+      logo: https://www.rosebud.ai/favicon.ico
+      description: 智能日记本，帮你整理思路
+      url: https://www.rosebud.ai
+
+    - title: NotebookLM
+      logo: https://notebooklm.google/favicon.ico
+      description: 把文档转成有声读物
+      url: https://notebooklm.google
+
+- taxonomy: 创意
+  icon: fas fa-lightbulb
+  links:
+    - title: PhotoRoom
+      logo: https://www.photoroom.com/favicon.ico
+      description: 简单好用的商品图片编辑器
+      url: https://www.photoroom.com
+
+    - title: Krea
+      logo: https://www.krea.ai/favicon.ico
+      description: 制作和修改图片的多功能平台
+      url: https://www.krea.ai
+
+- taxonomy: 办公协作
+  icon: fas fa-briefcase
+  links:
+    - title: Cora
+      logo: https://www.cora.app/favicon.ico
+      description: 帮你管理邮件和写回复的智能助手
+      url: https://www.cora.app
+
+    - title: Wispr Flow
+      logo: https://wisprflow.com/favicon.ico
+      description: 准确地把语音转成文字
+      url: https://wisprflow.com
+
+- taxonomy: 编程开发
+  icon: fas fa-code
+  links:
+    - title: Cursor
+      logo: https://cursor.sh/favicon.ico
+      description: 能理解代码并给出建议的编辑器
+      url: https://cursor.sh
+
+    - title: Replit
+      logo: https://replit.com/public/icons/favicon-196.png
+      description: 用简单的语言命令来做网站和应用
+      url: https://replit.com
+
+- taxonomy: 热门工具
+  icon: fas fa-star
+  links:
+    - title: ChatGPT
+      logo: https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg
+      description: OpenAI开发的AI对话模型
+      url: https://chat.openai.com
+
+    - title: Midjourney
+      logo: https://assets-global.website-files.com/6377ac1a39ff1e65214224e5/64d253dd57c8ad53e96d5360_midjourney_logo.png
+      description: AI绘画神器，通过文字生成图片
+      url: https://www.midjourney.com
